@@ -21,30 +21,35 @@ Glass 🍾
 Paper 📄
 Cardboard 📦
 Trash 🗑️
+
 ⚙️ Tech Stack
 Python 🐍
 TensorFlow / Keras 🤖
 Streamlit 🌐
 NumPy
 Pillow (PIL)
+
 🧠 Model Details
 Architecture: MobileNetV2 (Transfer Learning)
 Input Size: 224 × 224 images
 Activation: Softmax
 Loss Function: Sparse Categorical Crossentropy
 Output: Waste category + confidence score
-🌐 Deployment
 
+🌐 Deployment
 The model is deployed as a Streamlit web application.
 
 👉 Users can:
-
 Upload an image
 Get instant prediction
 View confidence score
 See recycling suggestions
 
 The app works on both desktop and mobile browsers.
+
+Architecture 
+<img width="1024" height="455" alt="image" src="https://github.com/user-attachments/assets/8a0b3afc-84dd-465a-97f7-30b7377aff41" />
+
 
 📸 Features
 📤 Image upload support
@@ -53,6 +58,7 @@ The app works on both desktop and mobile browsers.
 ♻️ Waste handling suggestions
 🔐 Simple login system
 📱 Mobile-friendly interface
+
 🖥️ How to Run Locally
 1. Clone repository
 git clone https://github.com/your-username/repo-name.git
@@ -65,15 +71,18 @@ tensorflow
 streamlit
 numpy
 pillow
+
 📱 Accessibility
 Works on all modern browsers
 Mobile-friendly web interface
 Can be saved to home screen for app-like experience
+
 🎯 Future Improvements
 Multi-object detection in images
 Camera-based live classification
 Smart waste bin IoT integration
 Improved dataset and accuracy tuning
+
 🏆 Use Cases
 Smart city waste management
 Recycling automation
@@ -84,3 +93,8 @@ AI/ML academic and hackathon projects
 ✔ Model trained
 ✔ Web app deployed
 ✔ Fully functional AI system
+
+Output
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/81804746-6874-49a2-a21a-589791477650" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/027c47c6-bd1e-4130-99bb-88859eb12961" />
