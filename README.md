@@ -88,11 +88,14 @@ Smart city waste management
 Recycling automation
 Environmental awareness systems
 AI/ML academic and hackathon projects
-👨‍💻 Project Status
 
+👨‍💻 Project Status
 ✔ Model trained
 ✔ Web app deployed
 ✔ Fully functional AI system
+
+Live Deployment
+https://smart-waste-classifi-9pwq.bolt.host
 
 Output
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/81804746-6874-49a2-a21a-589791477650" />
